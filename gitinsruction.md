@@ -1,4 +1,4 @@
-![ava](ava.png)
+![git](Git-Logo-2Color.png)
 # Рабата с Git и с Github
 ## 1. Проверка наличия установленного Git
 В терминале выполнить команду  `Git -- version` 
